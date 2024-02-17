@@ -7,7 +7,7 @@ app = Flask(__name__)
 # Słownik do przechowywania stanu rozmowy dla każdego użytkownika (identyfikowanego unikalnym ID)
 conversation_states = {}
 
-OPENAI_API_KEY = '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'
+OPENAI_API_KEY = ''
 
 def call_chat_gpt(prompt, user_id):
     restaurant_info = {
