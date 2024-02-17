@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <Response>
-    <Say language="pl-PL">Cześć, to jest Twoj bot z Twilio. Jak się masz?</Say>
+    <Say voice="alice" language="pl-PL">To jest przykładowa wiadomość, którą Twój bot będzie mówił podczas połączenia.</Say>
 </Response>
